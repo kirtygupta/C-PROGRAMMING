@@ -1,0 +1,1 @@
+Copy paste the contents of this file twice in another file (with the help of two pointers).
